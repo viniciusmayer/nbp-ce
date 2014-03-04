@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="br.com.ftec.exemplo.crud">
+    <module_version install_time="1393970139359" last="true" origin="installer" specification_version="1.0">
+        <file crc="1631051611" name="config/Modules/br-com-ftec-exemplo-crud.xml"/>
+        <file crc="4052941770" name="modules/br-com-ftec-exemplo-crud.jar"/>
+        <file crc="653894868" name="modules/ext/CRUDExemplo.jar"/>
+        <file crc="826192464" name="modules/ext/beansbinding-1.2.1.jar"/>
+        <file crc="184970629" name="modules/ext/eclipselink.jar"/>
+        <file crc="3486043091" name="modules/ext/javax.persistence_2.1.0.v201304241213.jar"/>
+        <file crc="304184954" name="modules/ext/org.eclipse.persistence.jpa.jpql_2.5.0.v20130507-3faac2b.jar"/>
+        <file crc="3176341229" name="modules/ext/postgresql-9.2-1002.jdbc4.jar"/>
+    </module_version>
+</module>

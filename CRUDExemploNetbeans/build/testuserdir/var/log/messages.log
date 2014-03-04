@@ -1,0 +1,96 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, March 4, 2014 6:55:40 PM BRT
+>System Info: 
+  Product Version         = CRUDExemploNetbeans 201310111528
+  Operating System        = Linux version 3.8.0-35-generic running on amd64
+  Java; VM; Vendor        = 1.7.0_51; Java HotSpot(TM) 64-Bit Server VM 24.51-b03; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.7.0_51-b13
+  Java Home               = /usr/lib/jvm/java-7-oracle/jre
+  System Locale; Encoding = en_US (crudexemplonetbeans); UTF-8
+  Home Directory          = /home/eleonorvinicius
+  Current Directory       = /home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans
+  User Directory          = /home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/testuserdir
+  Cache Directory         = /home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/testuserdir/var/cache
+  Installation            = /home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/cluster
+                            /home/eleonorvinicius/Applications/netbeans-7.4/platform
+                            /home/eleonorvinicius/Applications/netbeans-7.4/platform
+  Boot & Ext. Classpath   = /usr/lib/jvm/java-7-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-7-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-7-oracle/jre/classes:/usr/lib/jvm/java-7-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-7-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-7-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-7-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-7-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-7-oracle/jre/lib/ext/sunpkcs11.jar
+  Application Classpath   = /home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/boot.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/org-openide-modules.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/org-openide-util-lookup.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/org-openide-util.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/boot_ja.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/boot_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/boot_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/boot_zh_CN.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-modules_ja.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-modules_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util_ja.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-7-oracle/lib/dt.jar:/usr/lib/jvm/java-7-oracle/lib/tools.jar
+  Startup Classpath       = /home/eleonorvinicius/Applications/netbeans-7.4/platform/core/org-openide-filesystems.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/core.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/core_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/org-openide-filesystems_pt_BR.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/core_ja.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/core_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/org-openide-filesystems_ru.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/org-openide-filesystems_zh_CN.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/core_zh_CN.jar:/home/eleonorvinicius/Applications/netbeans-7.4/platform/core/locale/org-openide-filesystems_ja.jar:/home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/cluster/core/locale/core_crudexemplonetbeans.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.22.1 201310111528]
+	org.openide.util [8.33.2 201312091611]
+	org.openide.modules [7.39.1 201310111528]
+	org.openide.filesystems [8.8.1 201310111528]
+	org.netbeans.api.annotations.common/1 [1.21.1 201310111528]
+	org.openide.awt [7.59.1 201310111528]
+	org.netbeans.api.progress/1 [1.35.1 201310111528]
+	org.openide.dialogs [7.32.1 201310111528]
+	org.openide.nodes [7.36.1 201310111528]
+	org.openide.windows [6.65.1 201310111528]
+	org.netbeans.modules.editor.mimelookup/1 [1.33.1 201310111528]
+	org.openide.text [6.58.2 201312091611]
+	org.netbeans.swing.tabcontrol [1.46.1 201310111528]
+	org.netbeans.swing.outline [1.27.1 201310111528]
+	org.openide.explorer [6.54.1 201312091611]
+	org.openide.actions [6.32.1 201310111528]
+	org.netbeans.modules.queries/1 [1.36.1 201310111528]
+	org.openide.loaders [7.51.1 201310111528]
+	org.openide.io [1.42.1 201310111528]
+	org.netbeans.swing.plaf [1.34.1 201310111528]
+	org.netbeans.spi.quicksearch [1.20.1 201310111528]
+	org.netbeans.bootstrap/1 [2.63.1 201310111528]
+	org.netbeans.core.startup/1 [1.51.1 201310111528]
+	org.netbeans.modules.settings/1 [1.42.1 201310111528]
+	org.netbeans.modules.sampler [1.7.1 201310111528]
+	org.netbeans.modules.progress.ui [1.26.1 201310111528]
+	org.netbeans.modules.print [7.19.1 201310111528]
+	org.netbeans.modules.keyring [1.17.1 201310111528]
+	org.netbeans.core/2 [3.43.1 201310111528]
+	org.netbeans.modules.options.api/1 [1.36.1 201310111528]
+	org.netbeans.modules.options.keymap [1.28.2 201312091611]
+	org.netbeans.modules.masterfs/2 [2.44.3 201312091611]
+	org.netbeans.libs.jna/1 [1.31.1 201310111528]
+	org.netbeans.modules.masterfs.linux [1.7.1 201310111528]
+	org.netbeans.modules.keyring.fallback [1.1.1 201310111528]
+	org.netbeans.modules.keyring.impl [1.14.1 201310111528]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.24.1 201310111528]
+	org.netbeans.libs.osgi [1.15.1 201310111528]
+	org.netbeans.libs.jna.platform/1 [1.1.1 201310111528]
+	org.netbeans.libs.felix [2.9.1 201310111528]
+	org.netbeans.core.windows/2 [2.66.1 201310111528]
+	org.netbeans.core.ui/1 [1.38.1 201310111528]
+	org.netbeans.core.output2/1 [1.34.3 201312091611]
+	org.netbeans.core.network [1.1.2 201312091611]
+	org.netbeans.core.netigso [1.23.1 201310111528]
+	org.netbeans.core.nativeaccess/1 [1.23.1 201310111528]
+	org.netbeans.core.multitabs [1.3.3.1 1 201310111528]
+	org.netbeans.core.io.ui/1 [1.23.1 201310111528]
+	br.com.ftec.exemplo.crud [1.0 140304]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Gnome
+INFO [org.netbeans.core.network.proxy.gnome.GsettingsNetworkProxy]: GSettings system proxy resolver: direct connection
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: falled to default (corect if direct mode went before)
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+Diagnostic information
+Input arguments:
+	-Djdk.home=/usr/lib/jvm/java-7-oracle
+	-Dnetbeans.running.environment=gnome
+	-Dnetbeans.dirs=/home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/cluster:/home/eleonorvinicius/Applications/netbeans-7.4/platform
+	-Dnetbeans.home=/home/eleonorvinicius/Applications/netbeans-7.4/platform
+	-Dnetbeans.logger.console=true
+	-ea
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=/home/eleonorvinicius/NetBeansProjects/CRUDExemploNetbeans/build/testuserdir/var/log/heapdump.hprof
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 122.7MB maximum 1746.0MB
+Non heap memory usage: initial 23.4MB maximum 130.0MB
+Garbage collector: PS Scavenge (Collections=6 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=0 Total time spent=0s)
+Classes: loaded=6106 total loaded=6106 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8,234,315,776
+INFO [null]: Total physical memory 8,234,315,776
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [br-com-ftec-exemplo-crud-CRUDExemploTopComponent.shadow], but some are: [org-netbeans-core-io-ui-IOWindowAction.shadow, SwitchToRecentDocumentAction.shadow, Web, Tools, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, DocumentsAction.shadow]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.Clusters.relativeDirsWithHome(Clusters.java:137)

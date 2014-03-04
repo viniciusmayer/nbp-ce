@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="br_com_ftec_exemplo_crud">
+                <file name="CRUDExemplo" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//br.com.ftec.exemplo.crud//CRUDExemplo//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="br">
+                <folder name="com">
+                    <folder name="ftec">
+                        <folder name="exemplo">
+                            <folder name="crud">
+                                <file name="CRUDExemploTopComponent">
+                                    <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//br_com_ftec_exemplo_crud/CRUDExemplo.instance"/>
+                                </file>
+                            </folder>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="br_com_ftec_exemplo_crud">
+                <file name="CRUDExemplo.instance">
+                    <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="br.com.ftec.exemplo.crud.CRUDExemploTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="br.com.ftec.exemplo.crud.CRUDExemploTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="br-com-ftec-exemplo-crud-CRUDExemploTopComponent.shadow">
+                <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/br-com-ftec-exemplo-crud-CRUDExemploTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="CRUDExemploTopComponent.settings">
+                <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="br.com.ftec.exemplo.crud.CRUDExemploTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="CRUDExemploTopComponent.wstcref">
+                    <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="CRUDExemploTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="br-com-ftec-exemplo-crud-CRUDExemploTopComponent.instance">
+                <!--br.com.ftec.exemplo.crud.CRUDExemploTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="br.com.ftec.exemplo.crud.CRUDExemploTopComponent"/>
+                <attr name="preferredID" stringvalue="CRUDExemploTopComponent"/>
+                <attr
+                    bundlevalue="br.com.ftec.exemplo.crud.Bundle#CTL_CRUDExemploAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

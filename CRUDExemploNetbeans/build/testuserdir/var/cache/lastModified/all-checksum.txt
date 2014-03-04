@@ -1,0 +1,7 @@
+Applications/netbeans-7.4/platform=1393969190000
+cluster.NetBeansProjects/CRUDExemploNetbeans/build/cluster=1393970139000
+cluster.Applications/netbeans-7.4/platform=1393969190000
+user=1393970139000
+crc=7
+locale=en_US
+branding=crudexemplonetbeans
